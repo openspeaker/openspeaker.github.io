@@ -1,13 +1,28 @@
 <div class='row'>
   <div class='col-md-12'>
-    <h2>Latest News</h2>
+    <h2>Latest</h2>
   </div>
-</div>
 </div>
 <div class='row'>
   <div class="col-md-12">
     <ul class="posts">
-      {% for post in site.posts %}
+      {% for post in site.posts limit:1 %}
+          <h1 class="post-title">{{ post.title }}</h1>
+          <span class="post-date">{{ post.date | date: "%Y/%m/%d" }}</span>
+        {{ post.content }}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+<div class='row'>
+  <div class='col-md-12'>
+    <h2>More</h2>
+  </div>
+</div>
+<div class='row'>
+  <div class="col-md-12">
+    <ul class="posts">
+      {% for post in site.posts offset:1 %}
         <li>
           <p class='lead'>
             <strong>{{ post.date | date_to_string }}:</strong>
