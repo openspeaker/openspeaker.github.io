@@ -134,3 +134,5 @@ table td,th {
 .page-title, .post-title {
   font-weight: bold;
 }
+
+img[alt=w600] { width: 600px; }

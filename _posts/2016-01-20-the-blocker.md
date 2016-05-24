@@ -19,10 +19,12 @@ Give up this solution and try others
 2. Extra PLL will cost a lot (if good PLL, I do not know details indeed, but I don't want to spend time on it for now)
 
 ### My handmade board
-![Top of TAS5731 board](/images/2016_0120_top_tas5731.jpg)
-![Bottom of TAS5731 board](/images/2016_0120_bottom_tas5731.jpg)
+![w600](/images/2016_0120_top_tas5731.jpg)
 
-### The waveform
-![The waveform of I2S](/images/2016_0202_i2s_waveform.jpg)
+### bottom view
+![w600](/images/2016_0120_bottom_tas5731.jpg)
+
+### waveform looks not that bad..
+![w600](/images/2016_0202_i2s_waveform.jpg)
 
 
