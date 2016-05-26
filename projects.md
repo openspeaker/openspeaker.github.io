@@ -15,7 +15,7 @@ title: Projects
 | DAC ULTIMATE I                       | WM8741 x 1                        | planning                   |  FINISH GOOD                 |  RMB 699                                |
 | AMP 339                              | STA339BW                          | Aug, 2016                  |  PCBA                        |  RMB 199 (1), (3)                       |
 | DAC ULTIMATE II                      | WM8741 x 2                        | planning                   |  FINISH GOOD                 |  RMB 1299                               |
-| [PLAYBOX I](/playbox_one.html)       | CS4344 + TPA3110 + SPEAKERS       | planning                   |  FINISH GOOD                 |  RMB 399                                |
+| [PLAYBOX MINI](/playbox_mini.html)       | CS4344 + PAM8403 + SPEAKERS       | planning                   |  FINISH GOOD                 |  RMB 299                                |
 
 <div class="message">
 (1) pricing not included Raspberry Pi board or linkit smart 7688 board<br/>
