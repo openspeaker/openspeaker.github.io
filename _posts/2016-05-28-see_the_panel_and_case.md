@@ -21,7 +21,7 @@ will have good MCLK design, low jitter
 
 ![w600](/images/2016_05_28_panel_board_02.jpg)
 
-### metal with PCB build nice case and simple (smart? yes. I know)
+### metal with PCB build nice case and simple, sexy right?
 
 ![w600](/images/2016_05_28_case_front_view.jpg)
 
