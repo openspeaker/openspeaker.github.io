@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WIFI SPEAKER STARTER KIT
+comments: true
 ---
 
 <div class="message">

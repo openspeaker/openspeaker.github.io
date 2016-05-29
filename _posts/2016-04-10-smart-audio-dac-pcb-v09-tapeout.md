@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Version 0.9 PCB tapeout!
+comments: true
 ---
 
 ## Delay and delay... ,, spec changed

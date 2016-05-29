@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The First Blocker
+comments: true
 ---
 
 ## TAS5731 does not work

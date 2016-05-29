@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Note taking
+comments: true
 ---
 
 <div class="message">

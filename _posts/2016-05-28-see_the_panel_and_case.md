@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Housing for WIRELESS AMPLIFIER
+comments: true
 ---
 
 ## WHY HOUSING

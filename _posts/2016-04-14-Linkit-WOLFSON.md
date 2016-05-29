@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linkit Smart plays with Wolfson, wonderful sound :D
+comments: true
 ---
 
 ## it works!

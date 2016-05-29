@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Project Plan
+comments: true
 ---
 
 <div class="message">
