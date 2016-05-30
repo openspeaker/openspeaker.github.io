@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Version 0.9 PCB tapeout!
 comments: true
 ---

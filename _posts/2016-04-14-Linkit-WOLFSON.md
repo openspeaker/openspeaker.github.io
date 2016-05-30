@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Linkit Smart plays with Wolfson, wonderful sound :D
 comments: true
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Housing for WIRELESS AMPLIFIER
 comments: true
 ---

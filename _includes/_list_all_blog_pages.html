@@ -1,0 +1,17 @@
+<div class='row'>
+  <div class="col-md-12">
+    <ul class="posts">
+      <br/> 
+      {% for blog in site.posts %}
+      {% if blog.layout == 'blog' %}
+        <li>
+          <p class='lead'>
+            <strong>{{ blog.date | date_to_string }}:</strong>
+            <a href="{{ blog.url }}">{{ blog.title }}</a>
+          </p>
+        </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>

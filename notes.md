@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: blog_
 title: Note taking
 comments: true
 ---
 
 <div class="message">
-  This page I noted down the survey during the days, some with thoughts<br/>
-  let me add note to these notes later
+  
+  migrating from my blog ...
+  
 </div>
 
 ---

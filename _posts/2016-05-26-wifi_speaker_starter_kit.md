@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: WIFI SPEAKER STARTER KIT
 comments: true
 ---
@@ -65,8 +65,8 @@ comments: true
 
 ## SCHEDULE
 
-* 打算 6月的第一周周末画板子
-* 6月的第二周周末焊接和调试
+* 打算 6月的第一周周末画板子 --> should be delay
+* 6月的第二周周末焊接和调试 --> should be delay
 
 --------
 
@@ -87,3 +87,11 @@ comments: true
 ## INFORMATION
 
 如果你只关心linkit smart，需要网口和USB，并且不需要 audio。那么可以购买邻家这个 --> [Smart 7688 扩展板 底板](https://item.taobao.com/item.htm?id=528313226881)
+
+
+### updated
+
+```
+5/26 当天在 QQ 群发起过投票，继续讨论请用下面的 Disqus。
+对板子需要的请发 Q 我，发 mail 我。大概统计好数量在画板子。目标专著于小功放方案。
+```
