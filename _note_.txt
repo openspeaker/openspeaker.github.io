@@ -1,0 +1,3 @@
+post category
+1/ project --> for openspeaker project related posts
+2/ post --> generic pages, information, blog
